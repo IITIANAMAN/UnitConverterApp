@@ -2,7 +2,8 @@
 Created using kotlin and jetpack compose
 This app will convert almost all units to all other units<br/>
 ## How to run ? <br/>
--> In order to run this app use android studio with Gradles scripts<br/>
+-> In order to run this app use android studio hedgehog <br/>
+-> Make sure to do all the required setups, either connect an android device to system or to setup emulator
 -> Compile SDK - 35 
 
 ### Used dependencies are listed below: <br/>
