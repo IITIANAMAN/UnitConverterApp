@@ -5,7 +5,7 @@ This app will convert almost all units to all other units<br/>
 -> In order to run this app use android studio with Gradles scripts<br/>
 -> Compile SDK - 35 
 
-###Used dependencies are listed below: <br/>
+### Used dependencies are listed below: <br/>
     implementation("androidx.core:core-ktx:1.15.0")<br/>
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.8.7")<br/>
     implementation("androidx.activity:activity-compose:1.10.0")<br/>
